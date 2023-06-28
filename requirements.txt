@@ -4,3 +4,4 @@ pyfiglet
 tqdm
 requests
 inquirer
+rich
