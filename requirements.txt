@@ -1,7 +1,0 @@
-bs4
-colorama
-pyfiglet
-tqdm
-requests
-inquirer
-rich
