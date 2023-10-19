@@ -2,5 +2,5 @@ bs4
 requests
 colorama
 rich
+fake_useragent
 inquirer
-string
