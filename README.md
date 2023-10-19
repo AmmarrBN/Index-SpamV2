@@ -28,7 +28,5 @@ https://t.me/SariiRooti
   cd Index-SpamV2
   pip install -r requirements.txt
   python main.py
-  Not Support Inquirer?
-  python i_main.py
   ```
   </details>
